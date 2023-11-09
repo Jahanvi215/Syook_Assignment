@@ -1,0 +1,15 @@
+{
+  "name": "emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon emitter.js"
+  },
+  "author": "Jahanvi Tharu",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.7.2"
+  }
+}
